@@ -9,3 +9,7 @@ Fine-tuning the GPT-2 language model on a custom dataset for coherent and contex
 Here is the screenshot of the model training and text generation output:
 
 ![Model Output](output%20train.png.png)
+## Test Output
+Here is the screenshot of the model testing output:
+
+![Test Output](output%20test.png.png)
